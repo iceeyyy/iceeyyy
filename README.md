@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OIBhU_gB9ywOu95i6-hlqrog7jZOlBAC/view?usp=sharing](https://drive.google.com/file/d/1OIBhU_gB9ywOu95i6-hlqrog7jZOlBAC/view?usp=sharing)
 
-- ⚡ Fun fact: **My keyboard gets equal use for coding and gaming—they’re my superpowers!**
+- ⚡ Fun fact: My keyboard gets equal use for coding and gaming—they’re my superpowers!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

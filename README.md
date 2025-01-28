@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Achal</h1>
 <h3 align="center">Where development meets passion</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iceeyyy" alt="iceeyyy" /></a> </p>
-
 - 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://achalsharmaportfolio-jbw83g4ob-achals-projects-caacec6a.vercel.app/](https://achalsharmaportfolio-jbw83g4ob-achals-projects-caacec6a.vercel.app/)
@@ -16,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iicceeeyyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iicceeeyyy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/achal-sharma35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achal-sharma35" height="30" width="40" /></a>
 <a href="https://codesandbox.com/iceeyyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="iceeyyy" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/icey__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="icey__" height="30" width="40" /></a>
 </p>

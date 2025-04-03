@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Achal</h1>
 <h3 align="center">Where development meets passion</h3>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Express.js**
 
 - 👨‍💻 All of my projects are available at [https://achalsharmaportfolio-jbw83g4ob-achals-projects-caacec6a.vercel.app/](https://achalsharmaportfolio-jbw83g4ob-achals-projects-caacec6a.vercel.app/)
 

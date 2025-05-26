@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Express.js**
 
-- 👨‍💻 All of my projects are available at [https://achalsharmaportfolio-jbw83g4ob-achals-projects-caacec6a.vercel.app/](https://achalsharmaportfolio-jbw83g4ob-achals-projects-caacec6a.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://achal-s-updated-portfolio.vercel.app/](https://achal-s-updated-portfolio.vercel.app/)
 
 - 📝 Problem Solving [https://codolio.com/profile/achal](https://codolio.com/profile/achal)
 
